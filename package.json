@@ -1,0 +1,23 @@
+{
+  "name": "userproductapp",
+  "version": "1.0.0",
+  "description": "This project showcases an interface featuring two prominent buttons, each leading to separate routes tailored for managing user and product data stored in MongoDB. By leveraging Node.js endpoints, it provides a seamless experience for tasks like creating, reading, updating, and deleting data. These functionalities streamline data management while prioritizing user-friendly navigation.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhushiSonkusare/UserApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhushiSonkusare/UserApp/issues"
+  },
+  "homepage": "https://github.com/KhushiSonkusare/UserApp#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
